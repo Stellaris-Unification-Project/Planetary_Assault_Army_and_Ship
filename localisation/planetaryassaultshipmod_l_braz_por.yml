@@ -1,0 +1,242 @@
+﻿l_braz_por:
+
+ ### 디시인사이드 스텔라리스 갤러리 '어ㅅㅂ' 제작 ###
+
+ ### ship sizes ###
+
+ pasmod_assault_corvette:0 "Nave de queda planetária"
+ pasmod_assault_corvette_plural:0 "Naves de queda planetária"
+ pasmod_assault_destroyer:0 "Nave de assalto planetária"
+ pasmod_assault_destroyer_plural:0 "Naves de assalto planetária"
+ pasmod_assault_cruiser:0 "Transportadora assalto planetária"
+ pasmod_assault_cruiser_plural:0 "Transportadoras assalto planetária"
+
+ ### ship sections ###
+
+ PASMOD_ASSAULT_CORVETTE_MID_M1S1:0 "Core"
+ PASMOD_ASSAULT_DESTROYER_BOW_L1:0 "Bow"
+ PASMOD_ASSAULT_DESTROYER_MID_S2HB:0 "Core"
+ PASMOD_ASSAULT_DESTROYER_STERN_M1:0 "Stern"
+ PASMOD_ASSAULT_CRUISER_BOW_M1S2SHB2:0 "Bow"
+ PASMOD_ASSAULT_CRUISER_MID_S4LHB:0 "Core"
+ PASMOD_ASSAULT_CRUISER_STERN_L1:0 "Stern"
+ PASMOD_ASSAULT_DESTROYER_BOW_S2:0 "Bow"
+ PASMOD_ASSAULT_DESTROYER_MID_P2G1:0 "Core"
+ PASMOD_ASSAULT_DESTROYER_STERN_S1:0 "Stern"
+ PASMOD_ASSAULT_CRUISER_BOW_M2:0 "Bow"
+ PASMOD_ASSAULT_CRUISER_MID_S2P2SHB:0 "Core"
+ PASMOD_ASSAULT_CRUISER_STERN_S1P1:0 "Stern"
+
+ SHIP_GRAPHICS_PASMOD_ASSAULT_CORVETTE_DESC:0 "Planetary Drop Ship is a basic transport for advanced planetary invasion."
+ SHIP_GRAPHICS_PASMOD_ASSAULT_DESTROYER_DESC:1 "Planetary Assault Ship is an armed transport with better defense capability."
+ SHIP_GRAPHICS_PASMOD_ASSAULT_CRUISER_DESC:0 "Planetary Assault Carrier is the best option for planetary invasion, full of drop pods and strikecrafts."
+
+ ### ship components ###
+
+ PASMOD_ASSAULT_CORVETTE_FISSION_REACTOR:0 "$FISSION_REACTOR$"
+ PASMOD_ASSAULT_CORVETTE_FUSION_REACTOR:0 "$FUSION_REACTOR$"
+ PASMOD_ASSAULT_CORVETTE_COLD_FUSION_REACTOR:0 "$COLD_FUSION_REACTOR$"
+ PASMOD_ASSAULT_CORVETTE_ANTIMATTER_REACTOR:0 "$ANTIMATTER_REACTOR$"
+ PASMOD_ASSAULT_CORVETTE_ZERO_POINT_REACTOR:0 "$ZERO_POINT_REACTOR$"
+ PASMOD_ASSAULT_CORVETTE_DARK_MATTER_REACTOR:0 "$DARK_MATTER_REACTOR$"
+
+ PASMOD_ASSAULT_DESTROYER_FISSION_REACTOR:0 "$FISSION_REACTOR$"
+ PASMOD_ASSAULT_DESTROYER_FUSION_REACTOR:0 "$FUSION_REACTOR$"
+ PASMOD_ASSAULT_DESTROYER_COLD_FUSION_REACTOR:0 "$COLD_FUSION_REACTOR$"
+ PASMOD_ASSAULT_DESTROYER_ANTIMATTER_REACTOR:0 "$ANTIMATTER_REACTOR$"
+ PASMOD_ASSAULT_DESTROYER_ZERO_POINT_REACTOR:0 "$ZERO_POINT_REACTOR$"
+ PASMOD_ASSAULT_DESTROYER_DARK_MATTER_REACTOR:0 "$DARK_MATTER_REACTOR$"
+
+ PASMOD_ASSAULT_CRUISER_FISSION_REACTOR:0 "$FISSION_REACTOR$"
+ PASMOD_ASSAULT_CRUISER_FUSION_REACTOR:0 "$FUSION_REACTOR$"
+ PASMOD_ASSAULT_CRUISER_COLD_FUSION_REACTOR:0 "$COLD_FUSION_REACTOR$"
+ PASMOD_ASSAULT_CRUISER_ANTIMATTER_REACTOR:0 "$ANTIMATTER_REACTOR$"
+ PASMOD_ASSAULT_CRUISER_ZERO_POINT_REACTOR:0 "$ZERO_POINT_REACTOR$"
+ PASMOD_ASSAULT_CRUISER_DARK_MATTER_REACTOR:0 "$DARK_MATTER_REACTOR$"
+
+ PASMOD_COMBAT_COMPUTER_DEFAULT:0 "$COMBAT_COMPUTER_DEFAULT$"
+ PASMOD_COMBAT_COMPUTER_BASIC:0 "$COMBAT_COMPUTER_LINE_BASIC$"
+ PASMOD_COMBAT_COMPUTER_ADVANCED:0 "$COMBAT_COMPUTER_LINE_ADVANCED$"
+ PASMOD_COMBAT_COMPUTER_SAPIENT:0 "$COMBAT_COMPUTER_LINE_SAPIENT$"
+ PASMOD_COMBAT_COMPUTER_AUTONOMOUS:0 "$COMBAT_COMPUTER_LINE_AUTONOMOUS$"
+ PASMOD_COMBAT_COMPUTER_PRECOG:0 "$COMBAT_COMPUTER_LINE_PRECOG$"
+
+ PASMOD_COMBAT_COMPUTER_CARRIER_BASIC:0 "$COMBAT_COMPUTER_CARRIER_BASIC$"
+ PASMOD_COMBAT_COMPUTER_CARRIER_ADVANCED:0 "$COMBAT_COMPUTER_CARRIER_ADVANCED$"
+ PASMOD_COMBAT_COMPUTER_CARRIER_SAPIENT:0 "$COMBAT_COMPUTER_CARRIER_SAPIENT$"
+ PASMOD_COMBAT_COMPUTER_CARRIER_AUTONOMOUS:0 "$COMBAT_COMPUTER_CARRIER_AUTONOMOUS$"
+ PASMOD_COMBAT_COMPUTER_CARRIER_PRECOG:0 "$COMBAT_COMPUTER_CARRIER_PRECOG$"
+
+ PASMOD_ASSAULT_CORVETTE_THRUSTER_1:0 "$SHIP_THRUSTER_1$"
+ PASMOD_ASSAULT_CORVETTE_THRUSTER_2:0 "$SHIP_THRUSTER_2$"
+ PASMOD_ASSAULT_CORVETTE_THRUSTER_3:0 "$SHIP_THRUSTER_3$"
+ PASMOD_ASSAULT_CORVETTE_THRUSTER_4:0 "$SHIP_THRUSTER_4$"
+ PASMOD_ASSAULT_CORVETTE_THRUSTER_5:0 "$SHIP_THRUSTER_5$"
+
+ PASMOD_ASSAULT_DESTROYER_THRUSTER_1:0 "$SHIP_THRUSTER_1$"
+ PASMOD_ASSAULT_DESTROYER_THRUSTER_2:0 "$SHIP_THRUSTER_2$"
+ PASMOD_ASSAULT_DESTROYER_THRUSTER_3:0 "$SHIP_THRUSTER_3$"
+ PASMOD_ASSAULT_DESTROYER_THRUSTER_4:0 "$SHIP_THRUSTER_4$"
+ PASMOD_ASSAULT_DESTROYER_THRUSTER_5:0 "$SHIP_THRUSTER_5$"
+
+ PASMOD_ASSAULT_CRUISER_THRUSTER_1:0 "$SHIP_THRUSTER_1$"
+ PASMOD_ASSAULT_CRUISER_THRUSTER_2:0 "$SHIP_THRUSTER_2$"
+ PASMOD_ASSAULT_CRUISER_THRUSTER_3:0 "$SHIP_THRUSTER_3$"
+ PASMOD_ASSAULT_CRUISER_THRUSTER_4:0 "$SHIP_THRUSTER_4$"
+ PASMOD_ASSAULT_CRUISER_THRUSTER_5:0 "$SHIP_THRUSTER_5$"
+
+ pasmod_assault_army_type:0 "Tipos de Exército de Assalto Planetário"
+ pasmod_assault_army_number:0 "Tamanho da cápsula de queda"
+
+ pasmod_assault_army_1_unit:0 "Cápsula de queda pequena"
+ pasmod_assault_army_1_unit_DESC:0 "Esta cápsula de pequeno porte serve para enviar tropas para superfícies planetárias em alta velocidade.\n\nEste módulo de transporte colocará no total §Y1§! unidade no chão."
+ pasmod_assault_army_2_unit:0 "Cápsula de queda média"
+ pasmod_assault_army_2_unit_DESC:0 "Esta cápsula de tamanho médio serve para enviar tropas para superfícies planetárias em alta velocidade.\n\nEste módulo de transporte colocará no total §Y2§! unidades no chão."
+ pasmod_assault_army_3_unit:0 "Cápsula de queda grande"
+ pasmod_assault_army_3_unit_DESC:0 "Esta cápsula de tamanho grande serve para enviar tropas para superfícies planetárias em alta velocidade.\n\nEste módulo de transporte colocará no total §Y3§! unidades no chão."
+
+ pasmod_orbital_drop_pod_default:0 "Cápsula orbital de queda pequena"
+ pasmod_orbital_drop_pod_default_DESC:0 "§HTipo exército: $pasmod_assault_army_default$§!\n\nEsta cápsula é um meio de enviar tropas para superfícies planetárias em alta velocidade. Em vez disso, pode enviar explosivos.\n\n§RAviso: Apenas §Y1§! unidade de cada tipo de exército por 1 navio pode ser lançada ao mesmo tempo, independentemente de quantas cápsulas de queda do mesmo tipo de exército estejam equipadas no navio. \n\nIsto é devido a limitações técnicas do jogo.§!"
+ pasmod_orbital_drop_pod_clone:0 "$pasmod_orbital_drop_pod_default$"
+ pasmod_orbital_drop_pod_clone_DESC:0 "§HTipo exército: $pasmod_assault_army_clone$§!\n\nEsta cápsula é um meio de enviar tropas para superfícies planetárias em alta velocidade. Em vez disso, pode enviar explosivos.\n\n§RAviso: Apenas §Y1§! unidade de cada tipo de exército por 1 navio pode ser lançada ao mesmo tempo, independentemente de quantas cápsulas de queda do mesmo tipo de exército estejam equipadas no navio. \n\nIsto é devido a limitações técnicas do jogo.§!"
+ pasmod_orbital_drop_pod_gene:0 "$pasmod_orbital_drop_pod_default$"
+ pasmod_orbital_drop_pod_gene_DESC:0 "§HTipo exército: $pasmod_assault_army_gene$§!\n\nEsta cápsula é um meio de enviar tropas para superfícies planetárias em alta velocidade. Em vez disso, pode enviar explosivos.\n\n§RAviso: Apenas §Y1§! unidade de cada tipo de exército por 1 navio pode ser lançada ao mesmo tempo, independentemente de quantas cápsulas de queda do mesmo tipo de exército estejam equipadas no navio. \n\nIsto é devido a limitações técnicas do jogo.§!"
+ pasmod_orbital_drop_pod_drop_pod:0 "$pasmod_orbital_drop_pod_default$"
+ pasmod_orbital_drop_pod_drop_pod_DESC:0 "§HTipo exército: $pasmod_assault_army_drop_pod$§!\n\nEsta cápsula é um meio de enviar tropas para superfícies planetárias em alta velocidade. Em vez disso, pode enviar explosivos.\n\n§RAviso: Apenas §Y1§! unidade de cada tipo de exército por 1 navio pode ser lançada ao mesmo tempo, independentemente de quantas cápsulas de queda do mesmo tipo de exército estejam equipadas no navio. \n\nIsto é devido a limitações técnicas do jogo.§!"
+ pasmod_orbital_drop_pod_artillery_drone:0 "$pasmod_orbital_drop_pod_default$"
+ pasmod_orbital_drop_pod_artillery_drone_DESC:0 "§HTipo exército: $pasmod_assault_army_artillery_drone$§!\n\nEsta cápsula é um meio de enviar tropas para superfícies planetárias em alta velocidade. Em vez disso, pode enviar explosivos.\n\n§RAviso: Apenas §Y1§! unidade de cada tipo de exército por 1 navio pode ser lançada ao mesmo tempo, independentemente de quantas cápsulas de queda do mesmo tipo de exército estejam equipadas no navio. \n\nIsto é devido a limitações técnicas do jogo.§!"
+
+ pasmod_orbital_drop_pod_psionic_force:0 "$pasmod_orbital_drop_pod_default$"
+ pasmod_orbital_drop_pod_psionic_force_DESC:0 "§HArmy Type: $pasmod_assault_army_psionic_force$§!\n\nThis pod is means to send troops to planetary surfaces with high velocity. It can send explosives instead.\n\n§RWarning: Only §Y1§! unit of each army type per 1 ship can be dropped at one time, regardless of how many drop pod of same army type is equipped in the ship. \n\nThis is due to technical limitations of the game.§!"
+ pasmod_orbital_drop_pod_slave_army:0 "$pasmod_orbital_drop_pod_default$"
+ pasmod_orbital_drop_pod_slave_army_DESC:0 "§HArmy Type: $pasmod_assault_army_slave_army$§!\n\nThis pod is means to send troops to planetary surfaces with high velocity. It can send explosives instead.\n\n§RWarning: Only §Y1§! unit of each army type per 1 ship can be dropped at one time, regardless of how many drop pod of same army type is equipped in the ship. \n\nThis is due to technical limitations of the game.§!"
+ pasmod_orbital_drop_pod_droid_army:0 "$pasmod_orbital_drop_pod_default$"
+ pasmod_orbital_drop_pod_droid_army_DESC:0 "§HArmy Type: $pasmod_assault_army_droid_army$§!\n\nThis pod is means to send troops to planetary surfaces with high velocity. It can send explosives instead.\n\n§RWarning: Only §Y1§! unit of each army type per 1 ship can be dropped at one time, regardless of how many drop pod of same army type is equipped in the ship. \n\nThis is due to technical limitations of the game.§!"
+
+ ### armies ###
+
+ pasmod_assault_army_default:0 "Exército de assalto planetário"
+ pasmod_assault_army_default_plural:0 "Exércitos de assalto planetário"
+ pasmod_assault_army_default_DESC:0 "Exército de assalto planetário básico capaz de usar cápsula orbital de queda."
+ pasmod_assault_army_clone:0 "Unidade de assalto clone"
+ pasmod_assault_army_clone_plural:0 "Unidades de assalto clone"
+ pasmod_assault_army_clone_DESC:0 "Um exército de clones fabricados, que foram projetados para se tornarem econômicos e imunes a danos morais."
+ pasmod_assault_army_gene:0 "Divisão de assalto para queda orbital"
+ pasmod_assault_army_gene_plural:0 "Divisões de assalto para queda orbital"
+ pasmod_assault_army_gene_DESC:0 "Divisão de assalto maciça, incluindo forças especiais geneticamente modificadas."
+
+ pasmod_assault_army_drop_pod:0 "Drone de queda orbital"
+ pasmod_assault_army_drop_pod_DESC:0 "Esta cápsula orbital autônoma de baixo custo pode ser lançada ao solo e se envolver com forças inimigas assim que for montada na nave.."
+ pasmod_assault_army_artillery_drone:0 "Unidade de drone de artilharia"
+ pasmod_assault_army_artillery_drone_DESC:0 "Este grupo de batalha de drones está focado em unidades de artilharia que podem ser sincronizadas com nossas plataformas de ataque pré-instaladas para solicitar um ataque orbital de precisão."
+
+ pasmod_assault_army_psionic_force:0 "Psionic Special Forces"
+ pasmod_assault_army_psionic_force_desc:0 "They usually crumble hostile entity’s mind as well as its morale with their own extraordinary willpower."
+ pasmod_assault_army_slave_army:0 "Slave Troops"
+ pasmod_assault_army_slave_army_DESC:0 "An army unit full of personnel who is recruited against their will. They will serve their own duty even at the moment they die."
+ pasmod_assault_army_droid_army:0 "Droid Army"
+ pasmod_assault_army_droid_army_DESC:0 "These brainless tin-cans always follow orders given to them without hesitation. \n§L"Roger, Roger" - A Droid unit, right before killed in action§!"
+
+ ### technologies ###
+
+ tech_pasmod_assault_corvette:0 "Nova cápsula orbital de queda"
+ tech_pasmod_assault_corvette_desc:0 "Esta nova cápsula pode 'disparar' nossos soldados da nave para as superfícies. É como bombardeio orbital, mas sem projéteis de canhão."
+ TECH_UNLOCK_PASMOD_ASSAULT_CORVETTE_TITLE:0 "§HDesbloqueia com tipo de nave:§! $pasmod_assault_corvette$"
+ TECH_UNLOCK_PASMOD_ASSAULT_CORVETTE_DESC:0 "§H$pasmod_assault_corvette$§!\nEsta nova nave de transporte pode transportar, soltar o exército terrestre de órbita aqui e ali. Agora não precisamos esperar até que a batalha no solo termine, para invadir outro."
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_1_UNIT_TITLE:0 "§HDesbloqueia o componente:§! $pasmod_assault_army_default$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_1_UNIT_DESC:0 "§H$pasmod_assault_army_default$§!\n$pasmod_assault_army_default_DESC$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_DEFAULT_DROP_POD_TITLE:0 "§HDesbloqueia o componente:§! $pasmod_orbital_drop_pod_default$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_DEFAULT_DROP_POD_DESC:0 "§H$pasmod_orbital_drop_pod_default$§!\n$pasmod_orbital_drop_pod_default_DESC$"
+
+ tech_pasmod_assault_destroyers:0 "Projeto de nave de assalto planetária"
+ tech_pasmod_assault_destroyers_desc:0 "Agora podemos projetar seções exclusivas de naves com armas de autodefesa, que são capazes de soltar mais cápsulas e transportar mais unidades de assalto."
+ TECH_UNLOCK_PASMOD_ASSAULT_DESTROYER_TITLE:0 "§HDesbloqueia com tipo de nave:§! $pasmod_assault_destroyer$"
+ TECH_UNLOCK_PASMOD_ASSAULT_DESTROYER_DESC:0 "§H$pasmod_assault_destroyer$§!\nAs naves de transporte de tropas atuais têm um ponto fraco: elas são incapazes de combater o fogo diretamente. Esta nave superou essa fraqueza."
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_2_UNIT_TITLE:0 "§HDesbloqueia o componente:§! Medium Drop Pod"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_2_UNIT_DESC:0 "§HMedium Drop Pod§!\nEste módulo de tamanho médio aumentará o número de exércitos que a nave pode descer ao solo ao mesmo tempo. \n§YEste módulo de transporte deixará o total de 2 unidades no chão.§!"
+
+ tech_pasmod_assault_cruisers:0 "Projeto de transportadora de assalto maciço"
+ tech_pasmod_assault_cruisers_desc:0 "Transportadora de assalto planetário com capacidade de lançar várias cápsulas no solo e se envolver ativamente com a frota inimiga com vários ataques."
+ TECH_UNLOCK_PASMOD_ASSAULT_CRUISER_TITLE:0 "§HDesbloqueia com tipo de nave:§! $pasmod_assault_cruiser$"
+ TECH_UNLOCK_PASMOD_ASSAULT_CRUISER_DESC:0 "§H$pasmod_assault_cruiser$§!\nNave de guerra maciça com grande número de forças de assalto planetárias, também focada na defesa contra mísseis inimigos e naves de ataque."
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_3_UNIT_TITLE:0 "§HDesbloqueia o componente:§! Large Drop Pod"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_3_UNIT_DESC:0 "§HLarge Drop Pod§!\nEste módulo de tamanho grande aumentará o número de exércitos que a nave pode descer ao solo ao mesmo tempo. \n§YTEste módulo de transporte deixará o total de 3 unidades no chão.§!"
+
+ tech_pasmod_assault_army_clone:0 "Incubadora de Clone"
+ tech_pasmod_assault_army_clone_desc:0 "Essa instalação interna de nossas naves pode produzir um pacote de unidades clone em apenas 3 meses."
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_CLONE_TITLE:0 "§HDesbloqueia o componente:§! $pasmod_assault_army_clone$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_CLONE_DESC:0 "§H$pasmod_assault_army_clone$§!\n$pasmod_assault_army_clone_DESC$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_CLONE_DROP_POD_TITLE:0 "§HDesbloqueia o componente:§! $pasmod_orbital_drop_pod_clone$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_CLONE_DROP_POD_DESC:0 "§H$pasmod_orbital_drop_pod_clone$§!\n$pasmod_orbital_drop_pod_clone_DESC$"
+
+ tech_pasmod_assault_army_gene:0 "Recipiente de criostase"
+ tech_pasmod_assault_army_gene_desc:0 "Esta instalação é usada para armazenar numerosos soldados com segurança antes da queda orbital. Combinar isso com a Incubadora de clone nos permitirá enviar nossas tropas para o campo de batalha continuamente."
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_GENE_TITLE:0 "§HDesbloqueia o componente:§! $pasmod_assault_army_gene$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_GENE_DESC:0 "§H$pasmod_assault_army_gene$§!\n$pasmod_assault_army_gene_DESC$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_GENE_DROP_POD_TITLE:0 "§HDesbloqueia o componente:§! $pasmod_orbital_drop_pod_gene$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_GENE_DROP_POD_DESC:0 "§H$pasmod_orbital_drop_pod_gene$§!\n$pasmod_orbital_drop_pod_gene_DESC$"
+
+ tech_pasmod_assault_army_drop_pod:0 "Fábrica de drones embutida"
+ tech_pasmod_assault_army_drop_pod_desc:0 "O desenvolvimento de nossa tecnologia de engenharia finalmente nos permite instalar linhas de produção de drones em nossa nave para implantar um número quase ilimitado de exércitos no campo de batalha."
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_DROP_POD_TITLE:0 "§HDesbloqueia o componente:§! $pasmod_assault_army_drop_pod$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_DROP_POD_DESC:0 "§H$pasmod_assault_army_drop_pod$§!\n$pasmod_assault_army_drop_pod_DESC$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_DROP_POD_DROP_POD_TITLE:0 "§HDesbloqueia o componente:§! $pasmod_orbital_drop_pod_drop_pod$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_DROP_POD_DROP_POD_DESC:0 "§H$pasmod_orbital_drop_pod_drop_pod$§!\n$pasmod_orbital_drop_pod_drop_pod_DESC$"
+
+ tech_pasmod_assault_army_artillery_drone:0 "Sincronização em Tempo Real"
+ tech_pasmod_assault_army_artillery_drone_desc:0 "Agora nossos drones em terra não precisam se envolver diretamente com o inimigo. Enquanto adquirimos locais de alvos hostis, nossas pequenas plataformas de ataque em órbita baixa lidarão com eles.."
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_ARTILLERY_DRONE_TITLE:0 "§HDesbloqueia o componente:§! $pasmod_assault_army_artillery_drone$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_ARTILLERY_DRONE_DESC:0 "§H$pasmod_assault_army_artillery_drone$§!\n$pasmod_assault_army_artillery_drone_DESC$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_ARTILLERY_DRONE_DROP_POD_TITLE:0 "§HDesbloqueia o componente:§! $pasmod_orbital_drop_pod_artillery_drone$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_ARTILLERY_DRONE_DROP_POD_DESC:0 "§H$pasmod_orbital_drop_pod_artillery_drone$§!\n$pasmod_orbital_drop_pod_artillery_drone_DESC$"
+
+ tech_pasmod_assault_army_psionic_force:0 "Psionic Training Chamber"
+ tech_pasmod_assault_army_psionic_force_desc:0 "All kinds of military training for psychic users are proceeded in this ship facility."
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_PSIONIC_FORCE_TITLE:0 "§HUnlocks Component:§! $pasmod_assault_army_psionic_force$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_PSIONIC_FORCE_DESC:0 "§H$pasmod_assault_army_psionic_force$§!\n$pasmod_assault_army_psionic_force_DESC$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_PSIONIC_FORCE_DROP_POD_TITLE:0 "§HUnlocks Component:§! $pasmod_orbital_drop_pod_psionic_force$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_PSIONIC_FORCE_DROP_POD_DESC:0 "§H$pasmod_orbital_drop_pod_psionic_force$§!\n$pasmod_orbital_drop_pod_psionic_force_DESC$"
+
+ tech_pasmod_assault_army_slave_army:0 "Bill C-17"
+ tech_pasmod_assault_army_slave_army_desc:0 "This new law relaxes or removes most of restrictions on the use of slave as a military resources."
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_SLAVE_ARMY_TITLE:0 "§HUnlocks Component:§! $pasmod_assault_army_slave_army$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_SLAVE_ARMY_DESC:0 "§H$pasmod_assault_army_slave_army$§!\n$pasmod_assault_army_slave_army_DESC$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_SLAVE_ARMY_DROP_POD_TITLE:0 "§HUnlocks Component:§! $pasmod_orbital_drop_pod_slave_army$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_SLAVE_ARMY_DROP_POD_DESC:0 "§H$pasmod_orbital_drop_pod_slave_army$§!\n$pasmod_orbital_drop_pod_slave_army_DESC$"
+
+ tech_pasmod_assault_army_droid_army:0 "Built-in Droid Factory"
+ tech_pasmod_assault_army_droid_army_desc:0 "Development of our engineering technology finally allows us to install the droid production lines in our ship to deploy almost countless number of droid army to the battlefield."
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_DROID_ARMY_TITLE:0 "§HUnlocks Component:§! $pasmod_assault_army_droid_army$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_DROID_ARMY_DESC:0 "§H$pasmod_assault_army_droid_army$§!\n$pasmod_assault_army_droid_army_DESC$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_DROID_ARMY_DROP_POD_TITLE:0 "§HUnlocks Component:§! $pasmod_orbital_drop_pod_droid_army$"
+ TECH_UNLOCK_PASMOD_ASSAULT_ARMY_DROID_ARMY_DROP_POD_DESC:0 "§H$pasmod_orbital_drop_pod_droid_army$§!\n$pasmod_orbital_drop_pod_droid_army_DESC$"
+
+ ### edicts ###
+
+ edict_pasmod_panel:0 "§BNave de assalto planetário e exército§! Painel Mod"
+ edict_pasmod_panel_desc:0 "Você pode abrir o painel de controle mod aqui."
+
+ ### events ###
+ pasmod.feature_using_of_ai_requires_main_feature:0 "Should turn on the §YAutomatic Invasion§! feature to change this."
+
+ pasmod_etc.1.name:0 "Painel de controle Mod"
+ pasmod_etc.1.desc:0 "§HNave de queda planetária, nave de assalto planetária e transportadora de assalto planetária§! or §PNave militar com pequeno componente orbital de cápsula suspensa§! pode invadir o planeta automaticamente onde o bombardeio orbital está atualmente em andamento.\n\nNeste menu mod, você pode definir pelo menos qual a porcentagem de devastação do planeta necessária para iniciar a invasão. A configuração padrão é §Y25%§! de devastação."
+ pasmod_etc.1.close:0 "Fechar painel"
+ pasmod_etc.1.0:0 "Definido para: §B0%§!"
+ pasmod_etc.1.0.tooltipfail:0 "Já está definido para essa porcentagem."
+ pasmod_etc.1.25:0 "Definido para: §E25%§!"
+ pasmod_etc.1.50:0 "Definido para: §G50%§!"
+ pasmod_etc.1.75:0 "Definido para: §Y75%§!"
+ pasmod_etc.1.100:0 "Definido para: §R100%§!"
+ pasmod_etc.1.on:0 "Automatic Invasion: §GOn§!"
+ pasmod.feature_on.tooltip:0 "Ships §Gwill§! drop armies when conditions are met.\nClick to turn §Roff§! the feature."
+ pasmod_etc.1.off:0 "Automatic Invasion: §ROff§!"
+ pasmod.feature_off.tooltip:0 "Ships will §RNOT§! drop armies even when conditions are met.\nClick to turn §Gon§! the feature."
+ pasmod_etc_ai_use.on:0 "Unconditional Automatic Invasion for AI Empires: §GOn§!"
+ pasmod.feature_using_of_ai_on.tooltip:0 "AI empires' ships without required components §Gcan§! drop armies.\nClick to turn §Roff§! the feature."
+ pasmod_etc_ai_use.off:0 "Unconditional Automatic Invasion for AI Empires: §ROff§!"
+ pasmod.feature_using_of_ai_off.tooltip:0 "AI empires' ships without required components can §RNOT§! drop armies.\nClick to turn §Gon§! the feature."
+ pasmod_etc_enable_mod_ships.on:0 "Mod Ship Types: §GEnabled§!"
+ pasmod.enable_mod_ships_on.tooltip:0 "You §Gcan§! use new ship types provided by this mod.\nClick to turn §Roff§! the feature."
+ pasmod_etc_enable_mod_ships.off:0 "Mod Ship Types: §RDisabled§!"
+ pasmod.enable_mod_ships_off.tooltip:0 "You can §RNOT§! use new ship types provided by this mod.\nClick to turn §Gon§! the feature."
